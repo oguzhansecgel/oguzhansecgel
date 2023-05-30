@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I am Oğuzhan Seçgel, and I am progressing in the field of Unity 2D/3D mobile game development."
+"I am Oğuzhan Seçgel, and I am progressing in the field of Unity 2D/3D mobile game development and android development."
 
 
 ## 🌐 Socials:
