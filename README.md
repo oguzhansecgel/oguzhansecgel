@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fourth-year computer engineering student<br>and I am developing myself in the field of C# specifically in Unity and backend development.
+I am a fourth-year computer engineering student<br>and I am developing myself in the field of C# specifically in backend development.
 
 
 ## 🌐 Socials:
