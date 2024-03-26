@@ -1,14 +1,14 @@
  
- 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <div align="center">
-  <img height="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"  />
+  <img height="600" src="https://octodex.github.com/images/daftpunktocat-guy.gif"  />
 </div>
+
 <h1 align="center">Hi 👋, I'm Oğuzhan Seçgel</h1>
 <h3 align="center">Jr.Backend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhansecgel&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhansecgel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhansecgel&theme=" alt="oguzhansecgel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhansecgel&theme=dracula" alt="oguzhansecgel" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot, .Net Core**
 
@@ -32,6 +32,27 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 </p>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhansecgel&layout=compact&theme=dark" alt=oguzhansecgel />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzhansecgel&show_icons=true&locale=en&theme=dark" alt="oguzhansecgel" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhansecgel&theme=dark" alt="oguzhansecgel" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/oguzhansecgel">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oguzhansecgel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oguzhansecgel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oguzhansecgel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oguzhansecgel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhansecgel&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhansecgel&theme=react"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhansecgel&langs_count=8&theme=dark" alt=oguzhansecgel />
