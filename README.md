@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <div align="center">
-  <img height="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif](https://octodex.github.com/images/daftpunktocat-guy.gif"  />
+  <img height="400" src="[https://octodex.github.com/images/daftpunktocat-thomas.gif](https://octodex.github.com/images/daftpunktocat-guy.gif](https://octodex.github.com/images/daftpunktocat-guy.gif)"  />
 </div>
 <h1 align="center">Hi 👋, I'm Oğuzhan Seçgel</h1>
 <h3 align="center">Jr.Backend Developer</h3>
