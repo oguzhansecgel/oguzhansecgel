@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzhansecgel&show_icons=true&locale=en&theme=dark" alt="oguzhansecgel" /></p>
 
-<p><img align="center" height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhansecgel&theme=dark" alt="oguzhansecgel" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhansecgel&theme=dark" alt="oguzhansecgel" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -55,7 +55,7 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <h3 align="left">Stars</h3>
-<img align="left" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhansecgel&langs_count=8&theme=dark" alt=oguzhansecgel />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhansecgel&langs_count=8&theme=dark" alt=oguzhansecgel />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzhansecgel&show_icons=true&locale=en&theme=dark" alt="oguzhansecgel" /></p>
 
