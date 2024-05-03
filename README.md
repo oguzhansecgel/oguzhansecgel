@@ -1,6 +1,9 @@
-<div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div>
 # 💫 About Me:
 🌱 I’m currently learning Spring Boot, .Net Core
+
+<div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div>
+
+
 
 
 # 💻 Tech Stack:
