@@ -28,4 +28,4 @@ jobs:
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          wakatime --sync-offline-activity
+          wakatime --sync-offline-activity 1000
