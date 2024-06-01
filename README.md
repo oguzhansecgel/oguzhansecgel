@@ -2,7 +2,8 @@
 🌱 I’m currently learning Spring Boot, .Net Core
 
 <div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div>
- 
+
+ [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=90439158-3edb-4908-b548-c6fbff67256a)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 ```txt
