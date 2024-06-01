@@ -3,7 +3,7 @@
 
 <div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div>
 
- [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@oguzhansecgel)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=oguzhansecgel)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 ```txt
