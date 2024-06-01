@@ -1,8 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Spring Boot, .Net Core
 
-<div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=oguzhansecgel&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file" alt="oguzhansecgel's wakatime stats" style="max-width: 100%;">
 
  
 <!--START_SECTION:waka-->
@@ -25,6 +23,9 @@ textmate   0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=oguzhansecgel&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file" alt="oguzhansecgel's wakatime stats" style="max-width: 100%;">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=oguzhansecgel&limit=5&theme=dark&combine_all_yearly_contributions=true)
