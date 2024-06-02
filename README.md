@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Spring Boot, .Net Core
-
+[![wakatime](https://wakatime.com/badge/user/90439158-3edb-4908-b548-c6fbff67256a.svg)](https://wakatime.com/@90439158-3edb-4908-b548-c6fbff67256a)
 <div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div>
 
 # 💻 Tech Stack:
