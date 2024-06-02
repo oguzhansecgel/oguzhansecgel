@@ -31,6 +31,15 @@
 ```
 
 ```
+
+```
+## 📅 WakaTime Weekly Stats:
+
+```
+
+```
+
+```
 Command line interface used by all WakaTime text editor plugins.
 
 Usage:
