@@ -28,6 +28,10 @@ jobs:
           mkdir -p ~/.wakatime
           echo "[settings]\napi_key = ${{ secrets.WAKATIME_API_KEY }}" > ~/.wakatime.cfg
 
+      - name: Test WakaTime CLI
+        run: |
+          wakatime --today --verbose
+
       - name: Update WakaTime stats
         run: |
           wakatime --today --output json > waka.json
