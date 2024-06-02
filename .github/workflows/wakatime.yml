@@ -30,7 +30,8 @@ jobs:
 
       - name: Test WakaTime CLI
         run: |
-          wakatime --today --verbose
+          wakatime --today --verbose > waka_output.txt 2>&1
+          cat waka_output.txt
 
       - name: Update WakaTime stats
         run: |
