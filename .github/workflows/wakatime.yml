@@ -23,12 +23,15 @@ jobs:
         run: |
           pip install wakatime
 
-      - name: Update WakaTime stats
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - name: Configure WakaTime API Key
         run: |
-          wakatime --api-key $WAKATIME_API_KEY --today > waka.txt
-          wakatime --api-key $WAKATIME_API_KEY --project > waka_project.txt
+          mkdir -p ~/.wakatime
+          echo "[settings]\napi_key = ${{ secrets.WAKATIME_API_KEY }}" > ~/.wakatime.cfg
+
+      - name: Update WakaTime stats
+        run: |
+          wakatime --today > waka.txt
+          wakatime --project > waka_project.txt
           echo -e "## 📅 WakaTime Weekly Stats:\n\n\`\`\`\n$(cat waka.txt)\n\`\`\`\n\n\`\`\`\n$(cat waka_project.txt)\n\`\`\`" > waka.md
           sed -i '/<!--START_SECTION:waka-->/r waka.md' README.md
 
