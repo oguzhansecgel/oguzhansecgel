@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oguzhansecgel&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhansecgel&theme=dark&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhansecgel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
-  ![WakaTime Badge](https://github-readme-stats.vercel.app/api/wakatime?username=oguzhansecgel&layout=compact&theme=dark)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhansecgel" />
 
 </div>
 
