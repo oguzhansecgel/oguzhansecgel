@@ -30,13 +30,13 @@ jobs:
 
       - name: Test WakaTime CLI
         run: |
-          wakatime-cli --entity . --entity-type app --verbose > waka_output.txt 2>&1 || true
+          wakatime-cli --entity . --entity-type file --key ${{ secrets.WAKATIME_API_KEY }} --verbose > waka_output.txt 2>&1 || true
           cat waka_output.txt
 
       - name: Update WakaTime stats
         run: |
-          wakatime-cli --entity . --entity-type app --output json > waka.json || true
-          wakatime-cli --entity . --entity-type app --project > waka_project.json || true
+          wakatime-cli --entity . --entity-type file --key ${{ secrets.WAKATIME_API_KEY }} --output json > waka.json || true
+          wakatime-cli --entity . --entity-type file --key ${{ secrets.WAKATIME_API_KEY }} --output json > waka_project.json || true
           echo -e "## 📅 WakaTime Weekly Stats:\n\n\`\`\`\n$(cat waka.json)\n\`\`\`\n\n\`\`\`\n$(cat waka_project.json)\n\`\`\`" > waka.md
           sed -i '/<!--START_SECTION:waka-->/r waka.md' README.md
 
