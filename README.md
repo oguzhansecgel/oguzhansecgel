@@ -3,6 +3,15 @@
 
 <div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div>
 <!--START_SECTION:waka-->
+## 📅 WakaTime Weekly Stats:
+
+```
+
+```
+
+```
+
+```
 
 <!--END_SECTION:waka-->
 
@@ -27,6 +36,15 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!--START_SECTION:waka-->
+## 📅 WakaTime Weekly Stats:
+
+```
+
+```
+
+```
+
+```
 ## 📅 WakaTime Weekly Stats:
 
 ```
