@@ -14,20 +14,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          node-version: '14'
+          python-version: '3.x'
+
+      - name: Install wakatime-cli
+        run: |
+          pip install wakatime
 
       - name: Update WakaTime stats
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          npm install -g wakatime-cli
-          wakatime-cli --api-key $WAKATIME_API_KEY --today > waka.txt
-          wakatime-cli --api-key $WAKATIME_API_KEY --project > waka_project.txt
-          cat waka.txt
-          cat waka_project.txt
+          wakatime --api-key $WAKATIME_API_KEY --today > waka.txt
+          wakatime --api-key $WAKATIME_API_KEY --project > waka_project.txt
           echo -e "## 📅 WakaTime Weekly Stats:\n\n\`\`\`\n$(cat waka.txt)\n\`\`\`\n\n\`\`\`\n$(cat waka_project.txt)\n\`\`\`" > waka.md
           sed -i '/<!--START_SECTION:waka-->/r waka.md' README.md
 
