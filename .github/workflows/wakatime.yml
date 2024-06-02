@@ -1,16 +1,40 @@
-name: Work Stats Readme
+name: Update WakaTime Stats
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: '0 * * * *' # Bu cron ifadesi her saatte bir çalışır
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Update README with WakaTime stats
-        uses: athul/waka-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
         with:
+          node-version: '14'
+
+      - name: Update WakaTime stats
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          npm install -g wakatime-cli
+          wakatime-cli --api-key $WAKATIME_API_KEY --today > waka.txt
+          wakatime-cli --api-key $WAKATIME_API_KEY --project > waka_project.txt
+          cat waka.txt
+          cat waka_project.txt
+          echo -e "## 📅 WakaTime Weekly Stats:\n\n\`\`\`\n$(cat waka.txt)\n\`\`\`\n\n\`\`\`\n$(cat waka_project.txt)\n\`\`\`" > waka.md
+          sed -i '/<!--START_SECTION:waka-->/r waka.md' README.md
+
+      - name: Commit updated README
+        run: |
+          git config --global user.name "your-github-username"
+          git config --global user.email "your-email@example.com"
+          git add README.md
+          git commit -m "Update WakaTime stats"
+          git push
