@@ -44,6 +44,6 @@ jobs:
         run: |
           git config --global user.name "oguzhansecgel"
           git config --global user.email "oguzhansecgel19@icloud.com"
-          git add README.md
+          git add README.md waka.json waka.md waka_output.txt waka_project.json
           git commit -m "Update WakaTime stats"
           git push
