@@ -5,6 +5,15 @@
 
 
 <!--START_SECTION:waka-->
+## 📅 WakaTime Weekly Stats:
+
+```
+
+```
+
+```
+
+```
 <!--END_SECTION:waka-->
 
 # 💻 Tech Stack:
