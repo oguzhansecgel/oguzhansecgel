@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Spring Boot, .Net Core
 <div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div> 
+<div align="center"><img height="300" src="/bluestudyhard/bluestudyhard/raw/main/code.gif" /></div> 
 <img src="https://wakatime.com/badge/user/90439158-3edb-4908-b548-c6fbff67256a.svg" alt="Total time coded since May 29 2024" />
 
 
