@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Bu cron ifadesi her saatte bir çalışır
+    - cron: '0 0 * * 2'  
   push:
     branches:
       - main
