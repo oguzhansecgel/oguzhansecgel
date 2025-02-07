@@ -3,9 +3,6 @@ name: Update WakaTime Stats
 on:
   schedule:
     - cron: '0 0 2-8 * 2'  # Ayın 2'si ile 8'i arasındaki herhangi bir salı günü
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
