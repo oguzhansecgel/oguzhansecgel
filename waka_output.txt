@@ -1,1 +1,1 @@
-/home/runner/work/_temp/d275da5e-8a69-4fa3-87d3-59e38c1ed33f.sh: line 1: wakatime-cli: command not found
+/home/runner/work/_temp/f71fe9b4-d971-4371-ab48-1b0d78205283.sh: line 1: wakatime-cli: command not found
