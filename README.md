@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am actively learning spring boot spring cloud spring security microservice architecture kafka redis rabbitmq docker elasticsearch and improving myself
+Technology: - Java - Kotlin - Exposed DSL - Spring Boot - Microservice - Docker - PostgreSQL - Kafka - Prometheus - Grafana - Linux 
 <div align="center"><img height="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></div> 
 <img src="https://wakatime.com/badge/user/90439158-3edb-4908-b548-c6fbff67256a.svg" alt="Total time coded since May 29 2024" />
 
